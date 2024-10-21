@@ -1,0 +1,24 @@
+.bulb-container {
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    position: relative;
+}
+.divbox{
+    background-color: brown;
+}
+.off-bulb, .on-bulb {
+    width: 100px;
+    height: 100px;
+}
+
+.bulb{
+    background-color: aqua;
+    visibility: hidden;
+}
+.on-bulb {
+    visibility: hidden;
+    background-color: aqua;
+    position: absolute;
+    left: 0;
+}
