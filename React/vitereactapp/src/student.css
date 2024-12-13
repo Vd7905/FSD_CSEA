@@ -1,0 +1,8 @@
+.icard{
+    border: 5px solid blue;
+    background-color: antiquewhite;
+    width: 30vw;
+    height: 40vh;
+    color: black;
+    overflow: hidden;
+}
